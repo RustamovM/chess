@@ -1,0 +1,7 @@
+.intro_pas {
+  background-image: url(./assets/chess.jpeg);
+  background-repeat: no-repeat;
+  background-size: 800px 900px;
+  background-position: 600px;
+  padding-bottom: 50px;
+}
